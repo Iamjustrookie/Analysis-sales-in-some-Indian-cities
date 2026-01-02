@@ -1,4 +1,4 @@
-<img width="1859" height="961" alt="image" src="https://github.com/user-attachments/assets/4751ecc9-ddc8-4397-85bd-bdb06584fe78" /><img width="1859" height="961" alt="image" src="https://github.com/user-attachments/assets/2b2874aa-79e1-415d-ad26-e5dcc9b28c90" /># Analysis-sales-in-some-Indian-cities
+Analysis-sales-in-some-Indian-cities
 This a code which can support to analyse sales in India
 
 В файле Nike_restricted.ipynb храниться код по преобразованию исходного датасета с kaggle с использованию библиотеки pandas, numpy, thefuzz, datetime.
