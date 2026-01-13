@@ -1,9 +1,20 @@
-Analysis-sales-in-some-Indian-cities
-This a code which can support to analyse sales in India
+ # Анализируем продажи Nike по некоторым городам Индии 
 
-В файле Nike_restricted.ipynb храниться код по преобразованию исходного датасета с kaggle с использованию библиотеки pandas, numpy, thefuzz, datetime.
+# Задачи
 
-Ссылка на дашборд в datalens - https://datalens.ru/qb7gcl6y8de0a
+- Сделать первичную оценку датасета
+- Скоректировать данные в датасете 
+
+# Используемые библиотеки
+
+```
+import pandas as pd
+import datetime 
+import numpy as np 
+from thefuzz import process, fuzz # библиотека для корректироваки данных 
+```
+# Дашборд
+Ссылка на дашборд в datalens - [DataLens](https://datalens.ru/qb7gcl6y8de0a)
 
 Если нет datalens, то можно посмотреть скриншоты дашборда: 
 
